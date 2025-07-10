@@ -10,10 +10,10 @@ function Header() {
         <img src="../imgs/Logo.svg" alt="" />
       </div>
       <div className="icon">
-        <img src="" alt="" />
+        <img src="../imgs/Button.svg" alt="" />
       </div>
       <div className="tugma2">
-        <button></button>
+        <button>Contact Support</button>
       </div>
     </div>
   );
